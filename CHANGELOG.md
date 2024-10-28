@@ -2,10 +2,13 @@
 
 ## Current
 ## Merges
+*  Merge pull request #3 from leoviana00/feature-estilo-pagina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/35227a7f16c4ee32d98e2633be8ee00aee445377)
 *  Merge pull request #2 from leoviana00/feature-estrutura-pagina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/4f6d0a8a861f42aa8fcdec4920d5726c84fc1297)
 ## Commits
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/c7fcd715ef1a9a1a99daa9cc1181d53f29295a5b)
 *  feat(estrutura): estruturando a pagina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/c2a666f3f678143318b8b82b8a39e444d3ac0d07)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/04ce50229d34c0cc7985226e9022b7891a5311be)
+*  feat(style): add estilo a ágina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/d274df567f36e4228d246dfa0fe8418644f784df)
 
 
 
