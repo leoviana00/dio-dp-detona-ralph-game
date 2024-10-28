@@ -2,6 +2,14 @@
 
 ## Current
 ## Merges
+
+## Commits
+
+
+
+## 1.0.0 - (2024-10-28)
+## Merges
+*  Merge pull request #5 from leoviana00/feature-logica [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/c2ee72852e371ae663674ace79affcd3f384a204)
 *  Merge pull request #4 from leoviana00/feature-logica [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/de2eadfb0543522828fe5973c28fb34b4e8c2e4a)
 *  Merge pull request #3 from leoviana00/feature-estilo-pagina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/35227a7f16c4ee32d98e2633be8ee00aee445377)
 *  Merge pull request #2 from leoviana00/feature-estrutura-pagina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/4f6d0a8a861f42aa8fcdec4920d5726c84fc1297)
@@ -12,6 +20,8 @@
 *  feat(style): add estilo a ágina [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/d274df567f36e4228d246dfa0fe8418644f784df)
 *  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/aa4dc3bf8c2663254cbd30122a42c3324c5e0895)
 *  feat(engine): criando a engine para o jogo [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/f97176cac1337355562e8345037b3d47186bcd5b)
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/5a0616eb49c4b4e67413f8c90450ebb970f6dd6b)
+*  docs(changelog): versionando alteracoes realizadas [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/2de86a07cba023d445956541a51cf3957c7d1607)
 
 
 
@@ -27,7 +37,8 @@
 *  feat(issues): templates issues [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/c325c432b6b932762597c1e0cf74ca4fe438a92a)
 ## 📝 Metadata
 ```
-This version -------- 0.0.0
+This version -------- 1.0.0
+0.0.0
 Previous version ---- 0.0.0
-Total commits ------- 1
+Total commits ------- 12
 ```
