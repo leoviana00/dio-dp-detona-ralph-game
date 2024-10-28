@@ -2,8 +2,10 @@
 
 ## Current
 ## Merges
-
+*  Merge pull request #6 from leoviana00/feature-docs [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/30a2a0fa22e1076aa1c37d6d5d810f5a62710d17)
 ## Commits
+*  docs(CHANGELOG): update release notes [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/87993773c26e68695adc56e363ecb07a043c00dc)
+*  docs(project): documentando o projeto [View](https://github.com/leoviana00/dio-dp-detona-ralph-game/commits/0949726270fdbab83398b20fd8e748d5af251102)
 
 
 
